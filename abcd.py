@@ -1,2 +1,3 @@
 print("hello world")
-print("i am opimus")
+print("i am optimus")
+print("prime")
